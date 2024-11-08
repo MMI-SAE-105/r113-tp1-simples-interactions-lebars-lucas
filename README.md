@@ -1,5 +1,5 @@
-- nom :
-- prénom :
+- nom : Lebars
+- prénom : Lucas
 - URL Netlify : https://vocal-pudding-bffc5a.netlify.app/
 
 # Travail
